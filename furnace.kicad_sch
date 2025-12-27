@@ -2590,6 +2590,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Photoresistor (PDV is more senstive) [1 fc = 10 lux]\nDigiKey: PDV-P8001-ND\n* CDS Photoresistor 10 lux - 100lux / 200kohm - 3kohm\n* 400 - 700nm (520nm)\nDigiKey: NSL-5152-ND\n* CDS Photoresistor 2fc - 100fc / 15 ohm - 400 ohm\n* 550nm\n"
+		(exclude_from_sim no)
+		(at 137.922 60.198 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b6f59fec-4393-4e28-9084-69666637e63c")
+	)
+	(text "Pipe Mount Thermister\nDigiKey: 1912-1039-ND\nTEWA Sensors: TT0P-10KC8-T105-1500\nTHERMISTOR NTC 10KOHM 3435K CLIP\nBeta(25/85) Constant: 3435K ±1%\nTolerances at 25°C: ± 1%"
+		(exclude_from_sim no)
+		(at 137.922 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cc8c1d58-f88f-4562-88ed-cbcd56c202e7")
+	)
 	(junction
 		(at 240.03 27.94)
 		(diameter 0)
