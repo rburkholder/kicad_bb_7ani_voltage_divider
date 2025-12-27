@@ -2590,6 +2590,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Header Strip\nDigiKey: SAM1034-23-ND\nSamtec: TSW-123-07-T-D\nDesc: Header Through Hole 46 (2x23) position 0.100\" (2.54mm)"
+		(exclude_from_sim no)
+		(at 137.16 95.758 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9ee1bf1a-9e1d-4014-917a-08f40cdc0033")
+	)
 	(text "Photoresistor (PDV is more senstive) [1 fc = 10 lux]\nDigiKey: PDV-P8001-ND\n* CDS Photoresistor 10 lux - 100lux / 200kohm - 3kohm\n* 400 - 700nm (520nm)\nDigiKey: NSL-5152-ND\n* CDS Photoresistor 2fc - 100fc / 15 ohm - 400 ohm\n* 550nm\n"
 		(exclude_from_sim no)
 		(at 137.922 60.198 0)
@@ -2611,6 +2622,17 @@
 			(justify left)
 		)
 		(uuid "cc8c1d58-f88f-4562-88ed-cbcd56c202e7")
+	)
+	(text "Terminal Block\nDigiKey: 277-5873-ND\nPhoenix Contact: 1728284\nDescription: TERM BLOCK 2POS 55DEG 3.81MM(0.150\") PCB\n"
+		(exclude_from_sim no)
+		(at 136.906 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f349dcaf-b5a6-4b40-903e-637239d039f3")
 	)
 	(junction
 		(at 240.03 27.94)
