@@ -1,6 +1,6 @@
 (fp_lib_table
   (version 7)
-  (lib (name "samtec")(type "KiCad")(uri "/home/rpb/data/projects/kicad/_snap/samtec 2x23")(options "")(descr ""))
-  (lib (name "phoenix 45deg 2pos")(type "KiCad")(uri "/home/rpb/data/projects/kicad/_snap/phoenix 2 pos 45 deg")(options "")(descr ""))
-  (lib (name "phoenix 55deg 2pos")(type "KiCad")(uri "/home/rpb/data/projects/kicad/_snap/phoenix 2 pos 55 deg")(options "")(descr ""))
+  (lib (name "samtec")(type "KiCad")(uri "library/samtec_ 2x23")(options "")(descr ""))
+  (lib (name "phoenix 45deg 2pos")(type "KiCad")(uri "library/phoenix_2pos_45deg")(options "")(descr ""))
+  (lib (name "phoenix 55deg 2pos")(type "KiCad")(uri "library/phoenix_2pos_55deg")(options "")(descr ""))
 )
