@@ -15,4 +15,7 @@ In effect:
 * the two op-amp MCP6002 provides a buffered 1.8V rail-to-rail output for use by the voltage dividers
 * the eight op-amp MCP6004 provides a rail-to-rail voltage follower to provide high input impedance for the voltage divider, and low output impedance to the BB analog input pins
 
+Results, as of 2025/12/26 - not etched yet:
+* ![Schematic](pictures/Screenshot_20251226_213154.png)
+* ![Printed Circuit Board](pictures/Screenshot_20251226_213255.png)
 
