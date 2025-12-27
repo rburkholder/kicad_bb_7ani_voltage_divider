@@ -5,9 +5,11 @@
 	(uuid "7a322ab4-9078-4753-8044-2a6e73a5360d")
 	(paper "A4")
 	(title_block
-		(title "Furnace Temperature")
+		(title "BB Cape: 7 x Voltage Divider ANI")
 		(date "2025-12-26")
 		(rev "1.0")
+		(company "One Unified Net Limited")
+		(comment 1 "Author: Raymond Burkholder")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:MCP6002-xP"
