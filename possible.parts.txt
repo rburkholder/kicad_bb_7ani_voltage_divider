@@ -1,0 +1,15 @@
+2025/12/24
+
+2x23 header strip for beagle
+https://www.digikey.ca/en/products/detail/sullins-connector-solutions/PRPC023DAAN-RC/2775271
+
+http://www.4uconnector.com/ has many headers and stuff
+
+beagleboard cape, note the cutout required for ethernet port
+https://www.adafruit.com/product/572
+
+stacking header set for beagle bone
+https://www.adafruit.com/product/706
+
+2x23 male headers for beaglebone black
+https://www.adafruit.com/product/2076
